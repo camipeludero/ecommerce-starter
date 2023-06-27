@@ -5,7 +5,7 @@
   "scripts": {
     "login": "shopify theme dev --store $npm_package_config_store --password $npm_package_config_password",
     "logout": "shopify auth logout --password $npm_package_config_password",
-    "dev": "shopify theme dev --password $npm_package_config_password --theme-editor-sync",
+    "start": "shopify theme dev --password $npm_package_config_password --theme-editor-sync",
     "check": "shopify theme check --password $npm_package_config_password",
     "pull": "shopify theme pull --password $npm_package_config_password",
     "pull:theme": "shopify theme pull --password $npm_package_config_password --theme $npm_package_config_theme_id",
@@ -15,7 +15,7 @@
     "install-shopify-cli": "npm install -g @shopify/cli @shopify/theme"
   },
   "config": {
-    "store": "{STORE_ID or STORE_URL}",
+    "store": "STORE_ID or STORE_URL",
     "password": "THEME_ACCESS_PASSWORD",
     "theme_id": "CURRENT_THEME_ID(optional)"
   }
