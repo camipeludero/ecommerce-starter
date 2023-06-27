@@ -1,0 +1,6 @@
+/\.(txt|gif|bat)$/
+package.json
+*.yml
+*.md
+.gitignore
+.prettierrc.json
