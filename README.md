@@ -22,7 +22,7 @@ git clone https://github.com/camipeludero/ecommerce-starter.git
 2. Navigate to the project directory:
 
 ```bash
-cd gm2-ecommerce-boilerplate
+cd ecommerce-starter
 ```
 
 3. If you don't have it, install Shopify CLI v3:
