@@ -1,4 +1,4 @@
-# GM2 Ecommerce starter theme
+# Ecommerce starter theme
 
 ## Table of Contents
 - [Install](#install)
