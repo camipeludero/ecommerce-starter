@@ -38,6 +38,7 @@ npm run install-shopify-cli
     "password": "THEME_ACCESS_PASSWORD",
     "theme_id": "CURRENT_THEME_ID(optional)"
 ```
+Refer to https://shopify.dev/docs/themes/tools/theme-access on how to create a Theme Access Password
 
 5. Login on your Shopify store:
 
